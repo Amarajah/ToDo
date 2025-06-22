@@ -5,6 +5,8 @@ This repository contains the codebase of a simple yet functional To-Do List web 
 
 # Tech Stack
 
-Backend: Django (Python)
-Frontend: Vanilla HTML and CSS (Using Django template)
-Database: SQLite 
+Backend: Django (Python) <br>
+Frontend: Vanilla HTML and CSS (Using Django template) <br>
+Database: SQLite <br>
+
+https://dothetodo.pythonanywhere.com
